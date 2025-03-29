@@ -1,0 +1,4 @@
+# Use python version 3.11
+tensorflow==2.13.1
+streamlit
+keras

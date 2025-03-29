@@ -1,5 +1,8 @@
+__pycache__/
 .venv/
 venv/
 env/
 .idea/
 .vscode/
+model/keras_model.h5
+model/labels.txt
